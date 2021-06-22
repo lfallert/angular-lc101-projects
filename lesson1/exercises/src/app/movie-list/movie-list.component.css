@@ -1,10 +1,13 @@
 .movies {
-    color:hotpink;
+    color:rgb(146, 11, 79);
+    border-right-style: dotted;
+    border-left-style: dotted;
 }
 
 h3 {
     text-align: center;
     font-size: 36px;
+    text-decoration: underline;
 }
 
 li {

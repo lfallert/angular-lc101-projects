@@ -1,0 +1,9 @@
+hr{
+    height: 3px;
+    background-color: rgba(56, 49, 49, 0.411);
+    border: none;
+}
+
+body {
+    background-color: lavender;
+}
